@@ -3,3 +3,5 @@
 
 기본 url - https://api.music.msub.kr/?song=
 20210324_ URL 수정됨 :: https://www.melon.com/search/keyword/index.json?query=
+
+20210328_ URL Scheme 사용법 드디어 익힘
